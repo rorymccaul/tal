@@ -85,6 +85,7 @@ define(
 
             reset: function reset () {
                 this._mediaPlayer.reset();
+
             },
 
             getState: function getState () {
